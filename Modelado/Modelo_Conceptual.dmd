@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Modelo_Conceptual" id="E052418D-EB3B-9127-DA52-5A05FCCC6383" version="3.5">
+<createdBy>Darwin</createdBy>
+<createdTime>2024-11-22 01:57:47 UTC</createdTime>
+<ownerDesignName>Modelo_Conceptual</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>E052418D-EB3B-9127-DA52-5A05FCCC6383</designId>
+</OSDM_Design>
